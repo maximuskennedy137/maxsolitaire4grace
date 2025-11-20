@@ -1,7 +1,7 @@
 {
-    "name": "js-solitaire",
+    "name": "solitaire4grace",
     "version": "0.1.0",
-    "author": "Radovan Janjic <hi@radovanjanjic.com>",
+    "author": "max",
     "devDependencies": {
         "autoprefixer": "7.1.1",
         "babel-core": "6.25.0",
